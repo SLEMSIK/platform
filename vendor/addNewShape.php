@@ -1,0 +1,1 @@
+INSERT INTO `shapes` (`id`, `title`, `level`, `creator_id`, `categorie_id`, `student_file`, `teacher_file`, `html_file`, `date_of_creation`, `status`) VALUES (NULL, 'Куб', '2', '1', '1', 'uploads/img/model_id1-student.png', 'uploads/img/model_id1-teacher.png', 'uploads/html/model_id1.html', '2025-01-16', '1');
