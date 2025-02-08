@@ -13,7 +13,7 @@
           <a class="nav-link" href="create_work.php">Создание работы</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Конструктор</a>
+          <a class="nav-link" href="assets/constrcut.html">Конструктор</a>
         </li>
         </ul>
         
